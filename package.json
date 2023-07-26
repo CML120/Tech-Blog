@@ -1,0 +1,28 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "## Table of Contents   - [Description](#project-description)   - [Installation](#installation)   - [Usage](#usage)   - [Contribution](#contribution)   - [Testing](#testing)   - [Contact](#contact)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CML120/Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "Chee Lor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CML120/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/CML120/Tech-Blog#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^7.1.0",
+    "mysql2": "^3.5.2",
+    "sequelize": "^6.32.1",
+    "sequelize-cli": "^6.6.1"
+  }
+}
