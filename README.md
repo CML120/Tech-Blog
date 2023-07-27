@@ -61,7 +61,6 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 
   ### License 
-  MIT
   
   [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/.)
   
